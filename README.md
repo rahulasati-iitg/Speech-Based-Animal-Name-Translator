@@ -4,6 +4,7 @@ Speech based English to Hindi Animal Name Translator is a final Speech Recogniti
 Project Contributors
 - Mayukh Das
 - Mahasin Hossen Munshi
+- Rahul Asati
 
 We have developed the **backend(recording,pre-processing,training,testing(both offline,online))** using **C** and **front end(visualization part)** using **Microsoft Visual C++** in Microsoft Visual Studio. For Recording and cropping purpose we have used Cool-Edit mainly for training , and for live-training/testing we have used our own recorder code.
 
